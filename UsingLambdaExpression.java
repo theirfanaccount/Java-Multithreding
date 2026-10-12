@@ -24,7 +24,7 @@ public class UsingLambdaExpression {
         };
         Thread t1 = new Thread(r1);
         Thread t2 = new Thread(r2);
-        // t2.setPriority(2);
+        t2.setPriority(2);
         t1.start();
         t2.start();
     }
