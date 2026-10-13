@@ -19,3 +19,8 @@
 ### 4. **Single run() method**
 - Creation multiplethread by using single run() method
  
+## DAY 3 : Topics Covered
+### 5. **Daemon Thread**
+- A simple program on Daemon Thread
+### 6. **JAVA Time package**
+- A simple program on importing java.time package
