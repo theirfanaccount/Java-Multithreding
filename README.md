@@ -24,3 +24,12 @@
 - A simple program on Daemon Thread
 ### 6. **JAVA Time package**
 - A simple program on importing java.time package
+
+## DAY 4 : Topics Covered
+### 6. **Introduction of synchronization**
+- Understand the Sysnchronized method and synchronized block
+- Understand the difference between program with and without Synchronized
+### 7. **Real world example programs**
+- Printing machine
+- Bank Account 
+- Ticket Booking counter
