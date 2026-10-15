@@ -10,7 +10,7 @@ class TicketCounter implements Runnable{
                     try{
                         Thread.sleep(2000);
                     }
-                    catch(Exception e){
+                    catch(InterruptedException e){
                         e.printStackTrace();
                     }
                     
