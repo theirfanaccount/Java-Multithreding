@@ -14,7 +14,7 @@ public class LifeCycleDemo {
         System.out.println("2. " + t.getState());   // RUNNABLE
         Thread.sleep(500);
         System.out.println("3. " + t.getState());   // TIMED_WAITING
-        t.join();
+        t.join(2000);
         System.out.println(t.isAlive());
         System.out.println("4. " + t.getState());   // TERMINATED
     }
