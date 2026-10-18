@@ -33,3 +33,13 @@
 - Printing machine
 - Bank Account 
 - Ticket Booking counter
+
+## DAY 5 : Topic Covered
+### 8. **satic and instance Synchronized method**
+- Program on Staic and instance Sysnchronized method
+
+### 9. **Llife cycle of a thread**
+- Understanding different state of threads
+- DealdLock situation
+- join() method
+
